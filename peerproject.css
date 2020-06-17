@@ -1,0 +1,25 @@
+h1
+{
+    background-color:#E8E8E8;
+     text-align: center;
+     color:#9E3C3C;
+text-transform:uppercase;
+}
+h2
+{
+  color:#2E5A88;
+text-transform:uppercase;
+}
+section
+{
+background-color:#FFBDBD;
+}
+a{
+    color:#D20827;
+     background-color:#B6F9EE;
+ 	text-align: center;
+}
+img{
+display:none;
+ visibility: hidden;
+}
